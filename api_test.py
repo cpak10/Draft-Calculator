@@ -3,7 +3,7 @@ import pandas as pd
 import time
 # setting up overarching data
 server = 'https://na1.api.riotgames.com'
-api_key = 'api_key=RGAPI-47b70a11-17ac-46b3-aa5e-703e5a888703'
+api_key = 'api_key=[INSERT]'
 # to keep track of api usage and throttling
 api_count = 3
 # setting up the larger database for all matches
